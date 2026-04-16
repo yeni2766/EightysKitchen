@@ -4,6 +4,8 @@
 
 A modern, responsive restaurant website built to showcase menu offerings, merchandise, and brand identity through a clean and engaging user interface.
 
+[eightyskitchen.pdf](https://github.com/user-attachments/files/26802348/eightyskitchen.pdf)
+
 # Project Overview
 
 Eighty’s Kitchen was designed and developed to provide a seamless browsing experience across all devices. The goal was to create a visually appealing platform that highlights the restaurant’s menu while maintaining smooth navigation and strong brand presence.
