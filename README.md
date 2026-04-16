@@ -1,12 +1,15 @@
 
 # EightysKitchen
 
+A modern, responsive restaurant website built to showcase menu offerings, merchandise, and brand identity through a clean and engaging user interface.
+
 <img width="1457" height="792" alt="Screenshot 2026-03-02 at 23 49 10" src="https://github.com/user-attachments/assets/9faa5cc8-9ca5-4914-8166-b436f856448b" />
 <img 
   src="https://github.com/user-attachments/assets/3632a43a-5ee0-4fc0-b8dd-9600840e6fd4" 
   alt="eightyskitchen_page-0001" 
   width="100%" 
-/>A modern, responsive restaurant website built to showcase menu offerings, merchandise, and brand identity through a clean and engaging user interface.
+/>
+<img width="100%" alt="screencapture-eightyskitchen-about-2024-01-14-20_05_41_page-0001 (1)" src="https://github.com/user-attachments/assets/14b50e1a-3d4a-4b8c-80d8-8091a8a3de4a" />
 
 
 # Project Overview
