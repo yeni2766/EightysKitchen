@@ -4,7 +4,7 @@
 
 A modern, responsive restaurant website built to showcase menu offerings, merchandise, and brand identity through a clean and engaging user interface.
 
-[eightyskitchen.pdf](https://github.com/user-attachments/files/26802348/eightyskitchen.pdf)
+Screenshot of Project [eightyskitchen.pdf](https://github.com/user-attachments/files/26802348/eightyskitchen.pdf)
 
 # Project Overview
 
